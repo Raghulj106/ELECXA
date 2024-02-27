@@ -1,0 +1,81 @@
+#logo{
+    position: fixed;
+    width : 10vw;
+    height : 10vw;
+}
+
+body{
+    background-color: black;
+}
+
+#main{
+    background-image: url(./assests/bg2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+}
+
+#events{
+    background-image: url(./assests/bg1.jpg);
+}
+
+#presents{
+    color: yellow;
+    font-family: "Shantell Sans", cursive;
+    font-weight: 400;
+}
+
+#relative{
+    font-size: 13vw;
+    letter-spacing: 1vw;
+    font-weight: 400;
+    font-style: normal;
+    color: yellow;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 6px;
+
+}
+
+.symp{
+    font-family: "Poppins", sans-serif;
+    color: yellow;
+}
+
+#date{
+    font-size: 4vw;
+    letter-spacing: 0.5vw;
+    font-family: "Montserrat", sans-serif;
+    color: #FFD700;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-width: 2px;
+}
+.topic{
+    font-size: 4vw;
+    letter-spacing: 1.75vw;
+}
+#demo{
+    font-size:3vw ;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+#events h1{
+    font-size: 8vw;
+    font-family: "DM Serif Display", serif;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 2vw;
+    color: yellow;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
+
+
+
+.foot{
+    font-size: 3vw;
+    font-family: "Shantell Sans", cursive;
+    color: yellow;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+}

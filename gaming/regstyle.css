@@ -1,0 +1,37 @@
+.butt{
+    position: fixed;
+}
+
+body{
+    background-image: url(./files/bg1.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 100% 100%; 
+}
+
+.heading{
+    font-size: 4vw;
+    letter-spacing: 1vw;
+    font-family: "Luckiest Guy", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: yellow;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 2px;
+}
+
+#poster{
+    background-color: antiquewhite;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+}
+.foot{
+    font-size: 3vw;
+    font-family: "Shantell Sans", cursive;
+    color: yellow;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+}
